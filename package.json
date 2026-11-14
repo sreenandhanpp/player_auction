@@ -1,0 +1,7 @@
+{
+  "name": "auction-arena",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A fast multiplayer player-auction game",
+  "scripts": { "start": "node server.js" }
+}
